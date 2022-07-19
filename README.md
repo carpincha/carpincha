@@ -1,4 +1,5 @@
-## 😄 Here I am, Valentina 👋
+## Hey there 👋
+I'm  Valentina
 
 ## Connect with me:
 <div style="display: inline_block">
