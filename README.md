@@ -44,7 +44,7 @@
     <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
     <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
     <br>
-    <p align="center">Some of my  most used social things </p>
+    <p align="center">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. </p>
     <p align="center"><a href="https://twitter.com/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
     <p align="center">  <a href="https://twitch.tv/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
@@ -52,7 +52,8 @@
 
 <div>
         <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-    <img src="https://i.pinimg.com/originals/81/01/c6/8101c62eddcccbe0e3682e860e08250f.gif" width="600" height="300" align="center">
+    <div align="center">
+    <img src="https://64.media.tumblr.com/fb11ae4ef9c4ac8cd25fb4158aa657ed/569e8485e3cd4b11-78/s400x600/20ea6c75f247ceb1e8dc349a8ffb8898120d86da.gifv" width="600" height="10" >
     
       
         
