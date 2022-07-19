@@ -29,7 +29,7 @@
 <div>
     <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
     <p>
-        <img src="https://i.pinimg.com/originals/7c/04/09/7c0409d41423f1fafc0abe74c179a3e5.gif" width="250" height="250" align="right">
+        <img src="https://64.media.tumblr.com/5e10467bab864c7ec81bad8e82e43ca2/db1b7ec2381e9388-db/s1280x1920/b3718a157e17845d1eb1a4301acab3735a7b6913.gifv" width="350" height="240" align="right">
 </div>
 <div>
     <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
@@ -39,7 +39,7 @@
     </p>
     <br>
     <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-    <img src="https://i.pinimg.com/564x/45/da/f0/45daf09d1d4e374a30a9129a4d9472c5.jpg" align="right" width="270px" height="215px">
+    <img src="https://i.pinimg.com/originals/7c/04/09/7c0409d41423f1fafc0abe74c179a3e5.gif" align="right" width="270px" height="215px">
     <br>
     <p align="center"><a href="https://linkedin.com/in/valentina-nieto" target="blank"><img align="center" src="https://www.audienciaelectronica.net/wp-content/uploads/2018/11/linkedin-logo.png" alt="valentina-nieto" height="29" width="83" /></a></p>
     <p align="center">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉⬇. </p>
@@ -52,7 +52,7 @@
 <div>
         <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
     <div align="center">
-    <img src="https://64.media.tumblr.com/fb11ae4ef9c4ac8cd25fb4158aa657ed/569e8485e3cd4b11-78/s400x600/20ea6c75f247ceb1e8dc349a8ffb8898120d86da.gifv" width="600" height="10" >
+    <img src="https://64.media.tumblr.com/9cf7bf9f99a19a993f7ec67cfc4acc8d/e36de22e16b6245d-85/s640x960/6728179a37565f7d8920a67ddd97ce32b63aa577.gifv" >
     
       
         
