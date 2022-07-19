@@ -12,7 +12,7 @@
     <li>
         <b>Name:</b> Valentina</li>
     <li>
-        <b>Nationality:</b> Argentina
+        <b>Nationality:</b> Argentinian
     </li>
     <li>
         <b>Loves:</b> seinen manga and cats💞
@@ -52,7 +52,7 @@
 
 <div>
         <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-    <img src="https://i.imgur.com/KXx0cCx.gif">
+    <img src="https://i.pinimg.com/originals/81/01/c6/8101c62eddcccbe0e3682e860e08250f.gif" width="600" height="300" align="center">
     
       
         
