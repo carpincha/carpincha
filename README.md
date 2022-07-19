@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carpincha&label=Profile%20views&color=0e75b6&style=flat" alt="carpincha" /> </p>
 <div>
     <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
-    <img align="right" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" width="350" height="240" align="right">
+    <img align="right" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" align="right">
     <li>
         <b>Name:</b> Valentina</li>
     <li>
