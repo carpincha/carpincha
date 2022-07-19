@@ -29,7 +29,7 @@
 <div>
     <h2 align="left" style="font-size: 24px">                  ˗ˏˋ  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ˎˊ˗ </h2>
     <p>
-        <img src="https://i.pinimg.com/originals/d4/2b/b0/d42bb044611ffb3f6c5e131ff383e00c.gif" width="230" height="200" align="left">
+        <img src="https://www.seekpng.com/png/full/423-4236056_cute-pixel-art-bunny.png" width="200" height="180" align="left">
 </div>
 
 <div style="display: inline_block">
