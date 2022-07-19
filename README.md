@@ -8,7 +8,7 @@
 <br>
 <div>
     <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-    <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+    <img src="https://64.media.tumblr.com/e8a1b2667687d489275f4b4675901017/adbaf531b11d45b4-1e/s540x810/31202a768dc5419b33cde7280d1561e4771bc7f4.gifv" align="right">
     <li>
         <b>Name:</b> Valentina</li>
     <li>
