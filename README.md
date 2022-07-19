@@ -39,11 +39,13 @@
     </p>
     <br>
     <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+    <img src="https://i.pinimg.com/564x/45/da/f0/45daf09d1d4e374a30a9129a4d9472c5.jpg" align="right" width="270px" height="215px">
     <br>
-    <p align="center">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. </p>
-   <a href="https://linkedin.com/in/valentina-nieto" target="blank"><img align="center" src="https://www.audienciaelectronica.net/wp-content/uploads/2018/11/linkedin-logo.png" alt="valentina-nieto" height="25" width="80" /></a>
-<a href="https://discord.gg/https://discord.gg/H2r4H4gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/H2r4H4gw" height="30" width="40" /></a>
+    <p align="center"><a href="https://linkedin.com/in/valentina-nieto" target="blank"><img align="center" src="https://www.audienciaelectronica.net/wp-content/uploads/2018/11/linkedin-logo.png" alt="valentina-nieto" height="29" width="83" /></a></p>
+    <p align="center">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉⬇. </p>
+    <p align="center"><a href="https://steamcommunity.com/id/nobodynobodynobodynobodynobody/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/480px-Steam_icon_logo.svg.png" height="30" width="30"/></a> <a href="https://discord.gg/H2r4H4gw" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a></p>
+   
+    
 </div>
 <br>
 
