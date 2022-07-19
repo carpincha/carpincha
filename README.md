@@ -19,9 +19,6 @@
     <li>
         <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
     </li>
-    <li>
-        <b>Working @:</b> Cosmaker 
-    </li>
     <br>
     <p>     Have a nice day~<br>
     </p>
