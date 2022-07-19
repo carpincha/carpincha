@@ -44,28 +44,18 @@
     <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
     <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
     <br>
-    <p align="center">Hewe awe some of my <br>
-        most used s-s-sociaw things >~< xoxox</p>
+    <p align="center">Some of my  most used social things </p>
     <p align="center"><a href="https://twitter.com/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
     <p align="center">  <a href="https://twitch.tv/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
-<div>
-    <h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
-    <br>
-    <div align="center"><p>
 
-        [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&redirect=true)
-        <p>
-            <br>
-            <br>
-    </div>
-    <div>
+<div>
         <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-        <div align="center">
-            <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
-        </div>
-        <hr>
-    </div>
+    <img src="https://i.imgur.com/KXx0cCx.gif">
+    
+      
+        
+</div>
 </div>
 </body>
