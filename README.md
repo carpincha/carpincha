@@ -3,12 +3,12 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-    <img src="https://i.imgur.com/jx17oHT.gif">
+    <img src="https://64.media.tumblr.com/e8a1b2667687d489275f4b4675901017/adbaf531b11d45b4-1e/s540x810/31202a768dc5419b33cde7280d1561e4771bc7f4.gifv">
 </div>
 <br>
 <div>
     <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-    <img src="https://64.media.tumblr.com/e8a1b2667687d489275f4b4675901017/adbaf531b11d45b4-1e/s540x810/31202a768dc5419b33cde7280d1561e4771bc7f4.gifv" align="right">
+    <img src="https://64.media.tumblr.com/bd7e5959fda61e3aee7ffdc1108abf66/tumblr_pe9zdbXMnz1rv6iido1_r2_540.gifv" align="right">
     <li>
         <b>Name:</b> Valentina</li>
     <li>
