@@ -3,22 +3,22 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-    <img src="https://64.media.tumblr.com/e8a1b2667687d489275f4b4675901017/adbaf531b11d45b4-1e/s540x810/31202a768dc5419b33cde7280d1561e4771bc7f4.gifv">
+    <img src="https://i.pinimg.com/originals/db/e3/da/dbe3da5acbd6544e87d13d8b1e2b7fc8.gif">
 </div>
 <br>
 <div>
     <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-    <img src="https://64.media.tumblr.com/9dc8f68e3410cf6c268590c89f291361/tumblr_p1aqm60RLe1sgsmuuo1_640.gifv" align="right">
+    <img src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" align="right">
     <li>
         <b>Name:</b> Valentina</li>
     <li>
         <b>Nationality:</b> Argentina
     </li>
     <li>
-        <b>Loves:</b> seinen anime & manga -///-
+        <b>Loves:</b> seinen manga and cats💞
     </li>
     <li>
-        <b>Pronouns:</b> she/her/Female
+        <b>Pronouns:</b> she/her/female
     </li>
     <li>
         <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
@@ -33,7 +33,7 @@
 <div>
     <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
     <p>
-        <img src="https://c.tenor.com/HcPn0IfUB0oAAAAd/chainsaw-man-anime.gif" align="right">
+        <img src="https://i.pinimg.com/originals/7c/04/09/7c0409d41423f1fafc0abe74c179a3e5.gif" width="300" height="250" align="right">
 </div>
 <div>
     <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
