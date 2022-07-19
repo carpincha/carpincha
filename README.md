@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valentina nieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentina nieto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/valentina-nieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" target="_blank" width="110"></a>
 <a href="https://discord.gg/Balala#9542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Balala#9542" height="30" width="40" /></a>
 </p>
 
