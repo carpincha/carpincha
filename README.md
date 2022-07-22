@@ -14,7 +14,7 @@
         <b>Nationality:</b> Argentinian
     </li>
     <li>
-        <b>Loves:</b> seinen manga and cats💞
+        <b>Loves:</b> seinen mangas and cats💞
     </li>
     <li>
         <b>Pronouns:</b> she/her/female
