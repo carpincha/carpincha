@@ -52,7 +52,6 @@
     <h2>                   ୨୧ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ୨୧ </h2>
     <img src="https://i.pinimg.com/originals/7c/04/09/7c0409d41423f1fafc0abe74c179a3e5.gif" align="right" width="270px" height="215px">
     <br>
-    <p align="center"><a href="https://linkedin.com/in/valentina-nieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentina-nieto" height="30" width="30" /></a></p>
     <p align="center">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉⬇. </p>
     <p align="center"><a href="https://steamcommunity.com/id/nobodynobodynobodynobodynobody/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/480px-Steam_icon_logo.svg.png" height="30" width="30"/></a> <a href="https://discord.gg/H2r4H4gw" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a></p>
    
